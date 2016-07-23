@@ -20,5 +20,12 @@ namespace NUnit_Test {
 
         }
 
+        [Test]
+        public void NegativeTest() {
+
+            if (true)
+                Assert.Fail("Negative test failed on purpose.");
+
+        }
     }
 }
