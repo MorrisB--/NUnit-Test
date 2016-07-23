@@ -3,10 +3,22 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NUnit.Framework;
 
-namespace NUnit_Test
-{
-    class TestClass
-    {
+namespace NUnit_Test {
+
+    [TestFixture]
+    public class TestClass {
+
+        [Test]
+        public void PositiveTest() {
+
+            int x = 7;
+            int y = 7;
+
+            Assert.AreEqual(x, 7);
+
+        }
+
     }
 }
