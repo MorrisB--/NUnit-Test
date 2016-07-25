@@ -27,5 +27,16 @@ namespace NUnit_Test {
                 Assert.Fail("Negative test failed on purpose.");
 
         }
+
+        [Test]
+        public void ExceptionTest() {
+            // No base case, infinite loop
+           // Assert.That(() => ExceptionTest(), Throws.TypeOf<NotSupportedException>());
+        }
+
+        [Test, Ignore("Purposely Ignored")]
+        public void NotImplementedException() {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -1,0 +1,7 @@
+D:\Users\Morris\Documents\GitHub\NUnit-Test\NUnit-Test\NUnit-Test\bin\Debug\NUnit-Test.dll
+D:\Users\Morris\Documents\GitHub\NUnit-Test\NUnit-Test\NUnit-Test\bin\Debug\NUnit-Test.pdb
+D:\Users\Morris\Documents\GitHub\NUnit-Test\NUnit-Test\NUnit-Test\bin\Debug\nunit.framework.dll
+D:\Users\Morris\Documents\GitHub\NUnit-Test\NUnit-Test\NUnit-Test\bin\Debug\nunit.framework.xml
+D:\Users\Morris\Documents\GitHub\NUnit-Test\NUnit-Test\NUnit-Test\obj\Debug\NUnit-Test.csprojResolveAssemblyReference.cache
+D:\Users\Morris\Documents\GitHub\NUnit-Test\NUnit-Test\NUnit-Test\obj\Debug\NUnit-Test.dll
+D:\Users\Morris\Documents\GitHub\NUnit-Test\NUnit-Test\NUnit-Test\obj\Debug\NUnit-Test.pdb
